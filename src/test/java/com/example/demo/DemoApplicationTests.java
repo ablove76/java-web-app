@@ -8,6 +8,8 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
+		// comment explaining why the method is empty
+		// 추후 작성예정
 	}
 
 }
